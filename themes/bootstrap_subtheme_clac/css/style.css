@@ -1,0 +1,40 @@
+/**
+ * Place your custom styles here.
+ */
+
+.row{
+    background-color: lightgoldenrodyellow
+}
+
+#block-welcometocalwelllittleathletics h2{
+        color: red;
+        font-size: 40px;
+}
+
+.region-sidebar-first .block-block-content {
+ padding: 20px 0px 20px 0px; 
+} 
+
+.region-sidebar-second .block-block-content {
+ padding: 20px 0px 20px 0px; 
+} 
+
+.view-responsive-grid {
+    margin-top: 1em;
+    img {
+        width: 100%;
+        border: 3px; solid #eee;
+        padding: 3px; 
+        border-radius: 5px;
+    }
+
+    p {
+       position: relative;
+       bottom: 60px;
+       left: 6px;
+       color: #fff; 
+       padding: 0.5em 0.7em;
+       background: rgba(17, 17, 17, 0.5);
+       display: inline;
+    }
+}
