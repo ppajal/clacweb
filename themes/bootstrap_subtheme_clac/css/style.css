@@ -9,6 +9,8 @@
 #block-welcometocalwelllittleathletics h2{
         color: red;
         font-size: 40px;
+        margin-top: 0px;
+        padding-left: 60px;
 }
 
 .region-sidebar-first .block-block-content {
