@@ -67,3 +67,41 @@ p:last-child,
     margin-top: 0;
   }
 }
+
+//CLAC overrides
+.row{
+    background-color: lightgoldenrodyellow
+}
+
+#navbar{
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+
+#block-clac-subtheme-welcometocalwelllittleathletics {
+  h2{
+        color: red;
+        font-size: 40px;
+        margin-top: 0px;
+        //padding-left: 60px;
+  }
+}
+
+.region-sidebar-first {
+  .block-block-content{
+    padding: 15px 0px 20px 0px; 
+  }
+} 
+
+.region-sidebar-second {
+  .block-block-content{
+    padding: 15px 0px 20px 0px; 
+  }
+} 
+
+.views-field-field-training-video-url {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
